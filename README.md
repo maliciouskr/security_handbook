@@ -2,6 +2,8 @@
 员工安全手册
 
 目录结构
+
+```
 .
 ├── README.md
 └── staff
@@ -13,3 +15,5 @@
     │   ├── java.md
     │   └── php.md
     └── Programmer.md
+
+```
